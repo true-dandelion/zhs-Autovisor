@@ -4,7 +4,7 @@
 
 zhs-Autovisor 是一个专为智慧树(Zhihuishu)在线学习平台设计的自动化刷课工具。它通过模拟真实用户行为，自动完成视频观看、答题、进度跟踪等学习任务，帮助用户高效完成在线课程学习要求。
 
-## 下载地下
+## 下载地址
 https://github.com/true-dandelion/zhs-Autovisor/releases
 
 ## 主要功能
