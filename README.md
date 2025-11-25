@@ -8,7 +8,7 @@ zhs-Autovisor 是一个专为智慧树(Zhihuishu)在线学习平台设计的自�
 https://github.com/true-dandelion/zhs-Autovisor/releases
 
 ## 密钥提供
-- **密钥1**：ls2345678
+- **密钥1**：ls1234567
 - **密钥2**：ls2345678
 
 ## 主要功能
