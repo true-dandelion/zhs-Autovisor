@@ -12,7 +12,15 @@
 软件下载URL：[https://sh.shaoxin.top:1111/...](https://sh.shaoxin.top:1111/share/share?fileId=8c365d6f55870320178524c7)，点击该链接即可直接跳转下载，建议复制链接备用，谨防非官方渠道下载带来的风险。
 
 ## 四、切勿大规模传播
-1.该软件使用密钥进行防范，需要密钥请发邮件：delion@shaoxin.top
+1.该软件使用密钥进行防范，需要密钥请发邮件：delion@shaoxin.top   (以下邮件，均不回复，outlook.com gmail.com)
 
 2.github：[https://github.com/...](https://github.com/true-dandelion/zhs-Autovisor)
 
+
+
+## 密钥
+1.nT3tMH98vaN1-YzLIcg2PxiB9LIFODXu
+2.q8Ufp1_fDnRQlamXXXGZxeLZbv96tDFQ
+3.QxpmEFn_H6_A7IHc-qrFDltvP4Tmuqa-
+4.MpIy_2LrDNL1edsRACm3RXpThv2SVSnY
+--有效期均到：2026.05.19 00:00:00--
