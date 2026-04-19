@@ -19,15 +19,7 @@
 
 
 ## 密钥
-1.nT3tMH98vaN1-YzLIcg2PxiB9LIFODXu
-
-2.q8Ufp1_fDnRQlamXXXGZxeLZbv96tDFQ
-
-3.QxpmEFn_H6_A7IHc-qrFDltvP4Tmuqa-
-
-4.MpIy_2LrDNL1edsRACm3RXpThv2SVSnY
-
-有效期均到：2026.05.19 00:00:00
+[点击获取密钥](https://www.shaoxin.top/article/a-1776592958173-iumcbp)
 --
 一个密钥只能使用一次，每周提供2新密钥
 --
