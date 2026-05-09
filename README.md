@@ -9,7 +9,7 @@
 
 ## 三、下载地址
 
-软件下载URL：[https://sh.shaoxin.top:1111/...](https://sh.shaoxin.top:1111/share/share?fileId=8c365d6f55870320178524c7)，点击该链接即可直接跳转下载，建议复制链接备用，谨防非官方渠道下载带来的风险。
+软件下载URL：[https://sh.shaoxin.top:1111/...](https://sh.shaoxin.top:1111/share/share?fileId=705315272e800d272250168b)，点击该链接即可直接跳转下载，建议复制链接备用，谨防非官方渠道下载带来的风险。
 
 ## 四、切勿大规模传播
 1.该软件使用密钥进行防范，需要密钥请发邮件：delion@shaoxin.top   (以下邮件，均不回复，outlook.com gmail.com)
